@@ -1,0 +1,10 @@
+.error_class{
+    width:80vw;
+    height:10vh;
+    font-size:1vw;
+    margin:2vh auto;
+    background-color:#ff8080;
+    border:1px solid #ff0000;
+    color:#212121;
+
+}
